@@ -1,0 +1,282 @@
+[
+  {
+    "id": "p1",
+    "name": "Furina 2 Blue Variant",
+    "folder": "Furina_2_blue_to_variants",
+    "category": "doll",
+    "price": 799,
+    "sizes": ["small"],
+    "colors": ["blue", "teal"],
+    "featured": true
+  },
+  {
+    "id": "p2",
+    "name": "Furina 3 Blue Variant",
+    "folder": "Furina_3_blue_to_variants",
+    "category": "doll",
+    "price": 899,
+    "sizes": ["medium"],
+    "colors": ["blue"],
+    "featured": false
+  },
+  {
+    "id": "p3",
+    "name": "Furina Skin Tone Range",
+    "folder": "Furina_3_skin_tone_range",
+    "category": "doll",
+    "price": 999,
+    "sizes": ["medium"],
+    "colors": ["beige", "brown"],
+    "featured": false
+  },
+  {
+    "id": "p4",
+    "name": "Furina 4 Blue Variant",
+    "folder": "Furina_4_blue_to_variants",
+    "category": "doll",
+    "price": 950,
+    "sizes": ["medium"],
+    "colors": ["blue"],
+    "featured": false
+  },
+  {
+    "id": "p5",
+    "name": "Furina 5 Blue Variant",
+    "folder": "Furina_5_blue_to_variants",
+    "category": "doll",
+    "price": 1050,
+    "sizes": ["large"],
+    "colors": ["blue"],
+    "featured": true
+  },
+  {
+    "id": "p6",
+    "name": "Furina Blue Collection",
+    "folder": "Furina_blue_to_variants",
+    "category": "doll",
+    "price": 899,
+    "sizes": ["medium"],
+    "colors": ["blue", "cyan"],
+    "featured": false
+  },
+  {
+    "id": "p7",
+    "name": "Nahida Shaded Variant",
+    "folder": "Nahida_shaded_variants",
+    "category": "amigurumi",
+    "price": 850,
+    "sizes": ["small"],
+    "colors": ["green"],
+    "featured": false
+  },
+  {
+    "id": "p8",
+    "name": "Nefer 2 Collection",
+    "folder": "Nefer_2_converted_images",
+    "category": "amigurumi",
+    "price": 780,
+    "sizes": ["small"],
+    "colors": ["gold", "brown"],
+    "featured": false
+  },
+  {
+    "id": "p9",
+    "name": "Nefer Color Variations",
+    "folder": "Nefer_color_variations",
+    "category": "amigurumi",
+    "price": 880,
+    "sizes": ["medium"],
+    "colors": ["brown", "beige"],
+    "featured": true
+  },
+  {
+    "id": "p10",
+    "name": "Nuvi Blue Variant",
+    "folder": "Nuvi_blue_to_variants",
+    "category": "doll",
+    "price": 920,
+    "sizes": ["medium"],
+    "colors": ["blue"],
+    "featured": false
+  },
+  {
+    "id": "p11",
+    "name": "Rem 2 Blue Variant",
+    "folder": "Rem__2blue_to_variants",
+    "category": "doll",
+    "price": 950,
+    "sizes": ["medium"],
+    "colors": ["blue"],
+    "featured": false
+  },
+  {
+    "id": "p12",
+    "name": "Rem Blue Variant",
+    "folder": "Rem_blue_to_variants",
+    "category": "doll",
+    "price": 870,
+    "sizes": ["medium"],
+    "colors": ["blue"],
+    "featured": false
+  },
+  {
+    "id": "p13",
+    "name": "All Color Variants",
+    "folder": "all_color_variants",
+    "category": "keychain",
+    "price": 299,
+    "sizes": ["small"],
+    "colors": ["multi"],
+    "featured": false
+  },
+  {
+    "id": "p14",
+    "name": "All Color Variants 2",
+    "folder": "all_color_variants_2",
+    "category": "keychain",
+    "price": 349,
+    "sizes": ["small"],
+    "colors": ["multi"],
+    "featured": false
+  },
+  {
+    "id": "p15",
+    "name": "All Color Variants 3",
+    "folder": "all_color_variants_3",
+    "category": "keychain",
+    "price": 399,
+    "sizes": ["small"],
+    "colors": ["multi"],
+    "featured": false
+  },
+  {
+    "id": "p16",
+    "name": "Multi Teal Variants",
+    "folder": "multi_teal_variants",
+    "category": "wearable",
+    "price": 1200,
+    "sizes": ["S", "M"],
+    "colors": ["teal"],
+    "featured": true
+  },
+  {
+    "id": "p17",
+    "name": "Shaded Variants",
+    "folder": "shaded_variants",
+    "category": "wearable",
+    "price": 1100,
+    "sizes": ["M", "L"],
+    "colors": ["gray"],
+    "featured": false
+  },
+  {
+    "id": "p18",
+    "name": "Skin Tone Range",
+    "folder": "skin_tone_range",
+    "category": "wearable",
+    "price": 1300,
+    "sizes": ["S", "M", "L"],
+    "colors": ["beige", "brown"],
+    "featured": false
+  },
+  {
+    "id": "p19",
+    "name": "Skin Tone Variants",
+    "folder": "skin_tone_variants",
+    "category": "wearable",
+    "price": 1350,
+    "sizes": ["M"],
+    "colors": ["beige"],
+    "featured": false
+  },
+  {
+    "id": "p20",
+    "name": "Specific Teal Variant",
+    "folder": "specific_teal_variants",
+    "category": "hat",
+    "price": 650,
+    "sizes": ["free size"],
+    "colors": ["teal"],
+    "featured": false
+  },
+  {
+    "id": "p21",
+    "name": "Specific Teal Variant 2",
+    "folder": "specific_teal_variants_2",
+    "category": "hat",
+    "price": 700,
+    "sizes": ["free size"],
+    "colors": ["teal"],
+    "featured": false
+  },
+  {
+    "id": "p22",
+    "name": "Teal Shaded Variant",
+    "folder": "teal_shaded_variants",
+    "category": "band",
+    "price": 450,
+    "sizes": ["free size"],
+    "colors": ["teal"],
+    "featured": false
+  },
+  {
+    "id": "p23",
+    "name": "Teal Shaded Variant 2",
+    "folder": "teal_shaded_variants_2",
+    "category": "band",
+    "price": 500,
+    "sizes": ["free size"],
+    "colors": ["teal"],
+    "featured": false
+  },
+  {
+    "id": "p24",
+    "name": "Teal Shaded Variant 3",
+    "folder": "teal_shaded_variants_3",
+    "category": "band",
+    "price": 550,
+    "sizes": ["free size"],
+    "colors": ["teal"],
+    "featured": false
+  },
+  {
+    "id": "p25",
+    "name": "Teal Shaded Variant 4",
+    "folder": "teal_shaded_variants_4",
+    "category": "band",
+    "price": 600,
+    "sizes": ["free size"],
+    "colors": ["teal"],
+    "featured": false
+  },
+  {
+    "id": "p26",
+    "name": "Teal To Color Shades",
+    "folder": "teal_to_color_shades",
+    "category": "bookmark",
+    "price": 250,
+    "sizes": ["small"],
+    "colors": ["multi"],
+    "featured": false
+  },
+  {
+    "id": "p27",
+    "name": "Teal To Soft BW",
+    "folder": "teal_to_soft_bw",
+    "category": "bookmark",
+    "price": 220,
+    "sizes": ["small"],
+    "colors": ["black", "white"],
+    "featured": false
+  },
+  {
+    "id": "p28",
+    "name": "Teal To Soft Colors",
+    "folder": "teal_to_soft_colors",
+    "category": "bookmark",
+    "price": 280,
+    "sizes": ["small"],
+    "colors": ["pastel"],
+    "featured": false
+  }
+]
